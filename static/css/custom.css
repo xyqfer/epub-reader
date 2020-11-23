@@ -1,0 +1,45 @@
+body {
+  font-family: -apple-system-font, Georgia, "Helvetica Neue",
+    PingFang-SC-Regular, Helvetica, sans-serif;
+}
+
+.book-shelf-container {
+  min-width: 100%;
+  max-width: 100%;
+  width: 100%;
+}
+
+.shelf-main .book-library-main .library-main-box {
+  min-width: 100%;
+}
+
+.container {
+  min-width: 100%;
+}
+
+.bottom-note-tips.css-normalize {
+  display: none;
+}
+
+.view-content,
+#neat-epub-viewer-container {
+  background-color: rgb(248, 241, 227) !important;
+}
+
+.book-render {
+  overflow-x: initial;
+}
+
+.epub-view {
+  width: 100vw;
+}
+
+.view-content {
+  left: initial;
+  margin-left: initial;
+  right: 0;
+}
+
+.epub-view .catalog-open-right {
+  transform: none;
+}
